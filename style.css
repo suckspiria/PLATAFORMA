@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Jersey+20+Charted&family=Russo+One&family=Sedan+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Jersey+20+Charted&family=Sedan+SC&display=swap');
+header{
+    background-color: #000000;
+    width: 100%;
+    font-family: "Jersey 10", sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+   
+}
+
+
+nav a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: large;
+   
+}
+
+
+img{
+    width: 150px;
+}
+
+h1{
+    font-size: 30px;
+    color: #78281F;
+    font-family: "Jersey 10", sans-serif;
+    
+}
+
+.caja1 h2{
+    font-size:x-large;
+    color: #717D7E ;
+    font-style: italic;
+    font-family: "Jersey 10", sans-serif;
+    background-color: #420d0d99;
+
+
+}
+
+.caja2 h2{
+    font-size:x-large;
+    color: #717D7E ;
+    font-style: italic;
+    font-family: "Jersey 10", sans-serif;
+    background-color: #420d0d99;
+
+
+}
+
+.caja3 h2{
+    font-size:x-large;
+    color: #717D7E ;
+    font-style: italic;
+    font-family: "Jersey 10", sans-serif;
+    background-color: #420d0d99;
+
+
+}
+
+
+p{
+    font-weight:600;
+    font-size: 15px;
+    color: #ffffff;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+
+.container-lg{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 10px 0 10px 0;
+    background-color: #00000045;
+   
+ 
+}
+
+.caja1{
+width: 100%;
+height: 100%;
+padding: 10px;
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+}
+
+.caja2{
+width: 100%;
+height: 100%;
+padding: 10px;
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+}
+
+.caja3{
+width: 100%;
+height: 100%;
+padding: 10px;
+display: flex;
+flex-direction:column;
+justify-content:center;
+align-items: center;
+}
+
+.container-lg img{
+    border-radius: 50%;
+   
+}
+
+.container-lg p{
+    font-size: 80%;
+}
+
+.video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.pie{
+    display: flex;
+    justify-content: center;
+}
+
+header ul{
+    display: flex;
+    flex-direction: row; 
+    
+}
+
+header ul li{
+    margin: 10px;
+    color: white;
+    padding: 10px;
+}
+
+body{
+    background-image: url(imagenes/fondo2.gif);
+    background-size: cover;
+}
+
+.container-xxl{
+    width: 100%;
+    margin: 10px 0 10px 0;
+    display: flex;
+    align-items: center;
+    
+}
